@@ -1,2 +1,2 @@
 # Awesome Self-Supervised Learning on Graphs with Heterophily
-A curated list of heterophilous Graph Self-Supervised Learning papers.
+A curated list of heterophilic Graph Self-Supervised Learning papers.
