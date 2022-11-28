@@ -3,10 +3,12 @@
 
 This repository contains a curated list of **heterophilic graph self-supervised learning** papers, which are categorized based on their published years.
 
-| **Paper Title** | **Venue** | **Year** | 
-| --------------- | ---- | ---- | 
-| [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) | _TKDE_ | 2021 |
-| [Deep learning for anomaly detection](https://dl.acm.org/doi/pdf/10.1145/3439950) | _ACM Comput. Surv._ | 2021 |
+*Continuously updating!*
 
+ ## Year 2022
+
+| **Paper Title** | **Venue** | **Year** | 
+| --------------- | :----: | :----: | 
+| [**Towards Self-supervised Learning on Graphs with Heterophily**](https://dl.acm.org/doi/pdf/10.1145/3511808.3557478) | _CIKM_ | 2022 |
 
 ----------
