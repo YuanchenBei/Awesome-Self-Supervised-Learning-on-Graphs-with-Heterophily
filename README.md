@@ -1,5 +1,5 @@
 # Awesome Self-Supervised Learning on Graphs with Heterophily
-![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Self-Supervised-Learning-on-Graphs-with-Heterophily?color=yellow)  ![Forks](https://img.shields.io/github/forks/YuanchenBei/Awesome-Self-Supervised-Learning-on-Graphs-with-Heterophily?color=blue&label=Fork)
+![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Self-Supervised-Learning-on-Graphs-with-Heterophily?color=green)  ![Forks](https://img.shields.io/github/forks/YuanchenBei/Awesome-Self-Supervised-Learning-on-Graphs-with-Heterophily?color=blue)
 
 This repository contains a curated list of **heterophilic graph self-supervised learning** papers, which are categorized based on their published years.
 
@@ -25,12 +25,12 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 ----------
 
 ## Other Related
-Heterophilic GNN (Survey)
+*Heterophilic GNN (Survey)*
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Graph Neural Networks for Graphs with Heterophily: A Survey | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.07082.pdf) | [Not Available] |
 
-Self-supervised Learning on Graph (Survey)
+*Self-supervised Learning on Graph (Survey)*
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Graph Self-Supervised Learning: A Survey | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/2103.00111.pdf) | [Not Available] |
