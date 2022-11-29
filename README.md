@@ -23,3 +23,19 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 | How to find your friendly neighborhood: Graph attention design with self-supervision | _ICLR 2021_ | [[PDF]](https://openreview.net/pdf?id=Wi5KUNlqWty) | [[Code]](https://github.com/dongkwan-kim/SuperGAT) |
 
 ----------
+
+## Other Related
+Heterophilic GNN (Survey)
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| Graph Neural Networks for Graphs with Heterophily: A Survey | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.07082.pdf) | [Not Available] |
+
+Self-supervised Learning on Graph (Survey)
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| Graph Self-Supervised Learning: A Survey | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/2103.00111.pdf) | [Not Available] |
+| Self-Supervised Learning of Graph Neural Networks: A Unified Review | _TPAMI 2022_ | [[PDF]](https://arxiv.org/pdf/2102.10757.pdf) | [Not Available] |
+| Self-supervised Learning on Graphs: Deep Insights and New Directions | _Arxiv 2020_ | [[PDF]](https://arxiv.org/pdf/2006.10141.pdf) | [[Code]](https://github.com/ChandlerBang/SelfTask-GNN) |
+
+----------
+
