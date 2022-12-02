@@ -12,6 +12,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 | --------------- | :--------: | :--------: | :--------: | 
 | Link Prediction on Heterophilic Graphs via Disentangled Representation Learning | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2208.01820.pdf) | [[Code]](https://github.com/sjz5202/DisenLink) |
 | Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2203.10866.pdf) | [[Code]](https://github.com/zhiqiangzhongddu/Selene) |
+| Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction | _ICLR 2022_ | [[PDF]](https://arxiv.org/pdf/2111.00064.pdf) | [[Code]](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt) |
 | Towards Self-supervised Learning on Graphs with Heterophily | _CIKM 2022_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557478) | [[Code]](https://github.com/yifanQi98/HGRL) |
 | Graph Representation Learning Beyond Node and Homophily | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/2203.01564.pdf) | [[Code]](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily) |
 
