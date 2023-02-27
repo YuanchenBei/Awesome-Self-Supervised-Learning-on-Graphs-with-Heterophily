@@ -10,6 +10,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| RAW-GNN: RAndom Walk Aggregation based Graph Neural Network | _IJCAI 2022_ | [[PDF]](https://arxiv.org/pdf/2206.13953.pdf) | [Not Available] |
 | Link Prediction on Heterophilic Graphs via Disentangled Representation Learning | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2208.01820.pdf) | [[Code]](https://github.com/sjz5202/DisenLink) |
 | Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2203.10866.pdf) | [[Code]](https://github.com/zhiqiangzhongddu/Selene) |
 | Node Feature Extraction by Self-Supervised Multi-scale Neighborhood Prediction | _ICLR 2022_ | [[PDF]](https://arxiv.org/pdf/2111.00064.pdf) | [[Code]](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt) |
