@@ -18,6 +18,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 | Graph Representation Learning Beyond Node and Homophily | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/2203.01564.pdf) | [[Code]](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily) |
 | Link Prediction on Heterophilic Graphs via Disentangled Representation Learning | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2208.01820.pdf) | [[Code]](https://github.com/sjz5202/DisenLink) |
 | Augmentation-Free Graph Contrastive Learning with Performance Guarantee | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2204.04874.pdf) | [Not Available] |
+| Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2209.08264.pdf) | [Not Available] |
 ----------
 
  ## Year 2021
