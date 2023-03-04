@@ -6,6 +6,13 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 
 *Continuously updating!*
 
+ ## Year 2023
+
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating | _AAAI 2023_ | [[PDF]](https://arxiv.org/pdf/2211.14065.pdf) | [[Code]](https://github.com/yixinliu233/GREET) |
+----------
+
  ## Year 2022
 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
