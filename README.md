@@ -11,6 +11,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating | _AAAI 2023_ | [[PDF]](https://arxiv.org/pdf/2211.14065.pdf) | [[Code]](https://github.com/yixinliu233/GREET) |
+| Graph Contrastive Learning Under Heterophily: Utilizing Graph Filters to Generate Graph Views | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=NzcUQuhEGef) | [Not Available] |
 ----------
 
  ## Year 2022
@@ -47,6 +48,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 | --------------- | :--------: | :--------: | :--------: | 
 | Graph Self-Supervised Learning: A Survey | _TKDE 2022_ | [[PDF]](https://arxiv.org/pdf/2103.00111.pdf) | [Not Available] |
 | Self-Supervised Learning of Graph Neural Networks: A Unified Review | _TPAMI 2022_ | [[PDF]](https://arxiv.org/pdf/2102.10757.pdf) | [Not Available] |
+| Self-supervised Learning on Graphs: Contrastive, Generative,or Predictive | _TKDE 2021_ | [[PDF]](https://arxiv.org/pdf/2105.07342.pdf) | [Not Available] |
 | Self-supervised Learning on Graphs: Deep Insights and New Directions | _Arxiv 2020_ | [[PDF]](https://arxiv.org/pdf/2006.10141.pdf) | [[Code]](https://github.com/ChandlerBang/SelfTask-GNN) |
 
 *Benchmark*
