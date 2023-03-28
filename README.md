@@ -12,6 +12,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 | --------------- | :--------: | :--------: | :--------: | 
 | Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating | _AAAI 2023_ | [[PDF]](https://arxiv.org/pdf/2211.14065.pdf) | [[Code]](https://github.com/yixinliu233/GREET) |
 | Graph Contrastive Learning Under Heterophily: Utilizing Graph Filters to Generate Graph Views | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=NzcUQuhEGef) | [Not Available] |
+| Contrastive Learning under Heterophily | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2303.06344.pdf) | [Not Available] |
 ----------
 
  ## Year 2022
