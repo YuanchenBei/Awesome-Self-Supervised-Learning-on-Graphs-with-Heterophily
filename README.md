@@ -55,6 +55,7 @@ This repository contains a curated list of **heterophilic graph self-supervised 
 *Benchmark*
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| A Critical Look at the Evaluation of GNNs under Heterophily: Are We Really Making Progress? | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=tJbbQfw-5wv) | [[Code]](https://github.com/yandex-research/heterophilous-graphs) |
 | Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods | _NIPS 2021_ | [[PDF]](https://proceedings.neurips.cc/paper/2021/file/ae816a80e4c1c56caa2eb4e1819cbb2f-Paper.pdf) | [[Code]](https://github.com/CUAI/Non-Homophily-Large-Scale) |
 
 ----------
